@@ -1,0 +1,1 @@
+# Combined deduplicated megalist for Adguard on Router
