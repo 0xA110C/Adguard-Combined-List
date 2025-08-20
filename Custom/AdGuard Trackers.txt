@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/0xA110C/Adguard-Combined-List
 ! License: GPLv3
-! Last modified: 2025-08-20T17:34:00.643Z
+! Last modified: 2025-08-20T21:24:13.003Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -92419,7 +92419,6 @@
 ||adition.com^
 ||adizio.com^
 ||adjug.com^
-||adjust.com^
 ||adk2x.com^
 ||adkernel.com^
 ||adkmob.com^
@@ -108502,6 +108501,7 @@
 ||go.adec-innovations.com^
 ||go.adflegal.org^
 ||go.adinstruments.com^
+||go.adjust.com^
 ||go.adm.com^
 ||go.adoptaclassroom.org^
 ||go.adspipe.com^
@@ -137625,11 +137625,14 @@
 ||pangle.io.edgekey.net^
 ||piclick.kr^
 ||po-kk.com^
+||s2s.adjust.com^
 ||smart.mobvista.com^
 ||ss.jamlive.tv^
 ||tr.ad.daum.net^
+||view.adjust.com^
 ||*.ad-shield.io^
 ||adshield-analytics-*.elb.amazonaws.com^
+||app.adjust.com^
 ||gtp*.acecounter.com^
 ||log.tiktokv.com^
 ||offer.onmas.kt.com^
@@ -138102,6 +138105,7 @@
 ||staticxx.facebook.com^
 ||x.everestop.io^
 ||*.iad-*.braze.com^
+||analytics.adjust.com^
 ||blueduckredapple.com^
 ||collector.lunalabs.io^
 ||isx.unity3d.com^
