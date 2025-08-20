@@ -57,5 +57,5 @@
 [abuse.ch](https://urlhaus.abuse.ch/downloads/hostfile/)  
 [Phishing Hosts Blocklist](https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt)  
 [FadeMind Risk](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts)  
-  
+... Many more  
 Duplicates are filtered out
