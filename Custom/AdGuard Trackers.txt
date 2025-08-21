@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/0xA110C/Adguard-Combined-List
 ! License: GPLv3
-! Last modified: 2025-08-21T19:56:27.232Z
+! Last modified: 2025-08-21T22:02:31.154Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -145579,7 +145579,6 @@ dlsdk.appsflyer.com^
 ||apps.skype.com^
 ||arc.msn.com.nsatc.net^
 ||ars.smartscreen.microsoft.com^
-||assets.msn.com^
 ||assuritystorage.blob.core.windows.net^
 ||auth.gfx.ms^
 ||autologon.microsoftazuread-sso.com^
