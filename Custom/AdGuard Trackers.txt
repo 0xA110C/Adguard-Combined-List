@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/0xA110C/Adguard-Combined-List
 ! License: GPLv3
-! Last modified: 2025-08-23T14:18:09.916Z
+! Last modified: 2025-08-23T19:07:47.793Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
