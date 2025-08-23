@@ -4,7 +4,7 @@
 ! Version: 1.0.0.0
 ! Homepage: https://github.com/0xA110C/Adguard-Combined-List
 ! License: GPLv3
-! Last modified: 2025-08-23T20:16:22.465Z
+! Last modified: 2025-08-23T20:35:40.778Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -15343,7 +15343,6 @@
 ||smetrics.slalom.com^
 ||smetrics.slugger.com^
 ||smetrics.smallbusiness.amazon^
-||smetrics.smart-invest.sparkasse-wuppertal.de^
 ||smetrics.smartcommerce.amazon.in^
 ||smetrics.smartvermoegen.de^
 ||smetrics.smtb.jp^
@@ -65292,7 +65291,6 @@
 ||img.foodspring.it^
 ||img.foodspring.nl^
 ||img.foodspring.se^
-||img.sparkasse-koelnbonn.de^
 ||info.allango.net^
 ||info.deltapublishing.co.uk^
 ||info.der-gruene-max.ch^
